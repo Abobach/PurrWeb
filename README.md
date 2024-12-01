@@ -1,4 +1,4 @@
-# market
+# Интернет-магазин PurrWeb
 
 A new Flutter project.
 
